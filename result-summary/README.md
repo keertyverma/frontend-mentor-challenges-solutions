@@ -1,6 +1,6 @@
 # Result Summary
 
-[Live]() | [Solution]() | [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+[Live](https://i3cqg1.csb.app/) | [Solution](https://github.com/keertyverma/website-challenges/tree/main/result-summary) | [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
