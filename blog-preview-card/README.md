@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog Preview Card Solution](https://github.com/keertyverma/frontend-mentor-challenges-solutions/tree/main/blog-preview-card)
-- Live Site URL:
+- Solution URL: [Blog Preview Card Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-html-and-css-mKfLAr6S3c)
+- Live Site URL: [Blog Preview Card Live](https://keertyverma.github.io/frontend-mentor-challenges-solutions/blog-preview-card/)
 
 ### Screenshot
 
@@ -36,8 +36,8 @@ Users should be able to:
 
 ## What I learned
 
-Good project to refresh HTML & CSS basics
+Good project to refresh HTML & CSS basics.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my solution.It definitely helps to find new ways to code and find easier solutions!
