@@ -23,6 +23,10 @@ Users should be able to:
 
 ![desktop layout](images/screenshots/desktop.png)
 
+##### Card active state on hover and focus.
+
+![active state layout](images/screenshots/desktop_active_state.png)
+
 #### Mobile layout
 
 ![mobile layout](images/screenshots/mobile.png)
