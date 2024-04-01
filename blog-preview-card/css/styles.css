@@ -26,12 +26,14 @@ body {
   font-family: "Figtree", Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
   font-weight: 500;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  place-items: center;
+  min-height: 100vh;
   line-height: 1.5;
+}
+
+main {
+  margin: 0 auto;
 }
 
 .badge {
